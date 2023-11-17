@@ -10,7 +10,6 @@ Nascido no Rio de Janeiro, tenho 26 anos. Na minha adolescência, tive alguns co
 <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white"/><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-![Express.js](https://img.shields.io/badge/Express%20js-d9c008?style=for-the-badge&logo=express&logoColor=000000)
 
 <h3>👇 Estou estudando isso 👇</h3>
 
