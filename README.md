@@ -2,7 +2,7 @@
 
 >Podem me chamar de Lucas ou Kennari 
 
-Nascido no Rio de Janeiro, tenho 26 anos. Na minha adolescência, tive alguns contatos com criações de servidores privados de jogos. Nessa loucura, conheci o Delphi e me apaixonei pela praticidade de poder criar programas. Na época, vivia vendo tutoriais, mas nunca entendia a lógica. Anos depois, quando nem imaginava, cá estou eu, desenvolvedor de software.
+Nascido no Rio de Janeiro, tenho 26 anos. Na minha adolescência, tive alguns contatos com criações de servidores privados de jogos. Nessa loucura, conheci o Delphi e me apaixonei pela praticidade de poder criar programas. Na época, vivia vendo tutoriais, mas na época era bem escasso o acesso ao conteúdo. Anos depois, quando nem imaginava, cá estou eu, desenvolvedor de software.
 
 <h3>👇 Tenho habilidades nisso 👇</h3>
 
