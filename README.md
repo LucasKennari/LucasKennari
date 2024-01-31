@@ -1,4 +1,4 @@
-<div  align="center"><h2> Olá, Sejam Bem-Vindo(a) 👋</h2>
+<div  align="center"><h2> Olá, Seja Bem-Vindo(a) 👋</h2>
 
 >Podem me chamar de Lucas ou Kennari 
 
