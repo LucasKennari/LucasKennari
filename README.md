@@ -14,7 +14,6 @@ Nascido no Rio de Janeiro, tenho 26 anos. Na minha adolescência, tive alguns co
 
 <h3>👇 Estou estudando isso 👇</h3>
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 >O que eu mais gosto na área tech é que eu me divirto escrevendo código e sempre penso: "Como posso impactar na vida de outra pessoa com oque tenho a oferecer" 
