@@ -13,6 +13,7 @@ Nascido no Rio de Janeiro, tenho 26 anos. Na minha adolescência, tive alguns co
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 <h3>👇 Estou estudando isso 👇</h3>
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
