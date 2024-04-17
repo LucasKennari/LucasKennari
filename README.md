@@ -4,7 +4,7 @@
 
 Nascido no Rio de Janeiro, tenho 26 anos. Meu primeiro contato com programação foi junto com design, na adolescência, em fóruns de cheat. Atuei como ilustrador e tatuador e, por ironias do destino, vim novamente me apaixonar por programação. Desde então, busco aprimorar minhas habilidades diariamente para me tornar um desenvolvedor proficiente.
 
-<img src="https://imgur.com/hhNfzxM.png" width="450" /><img src="https://imgur.com/hJGexmx.png" width="100" /><img src="https://imgur.com/hhNfzxM.png" width="450" />
+<img src="https://imgur.com/hhNfzxM.png" width="300" /><img src="https://imgur.com/hJGexmx.png" width="100" /><img src="https://imgur.com/hhNfzxM.png" width="300" />
 
 
 <h3>👇 Tenho proeficiencia nas seguintes linguagens: 👇</h3>
