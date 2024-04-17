@@ -2,9 +2,9 @@
 
 >Podem me chamar de Lucas ou Kennari 
 
-Nascido no Rio de Janeiro, tenho 26 anos. Na minha adolescência, tive alguns contatos com criações de servidores privados de jogos. Nessa loucura, conheci o Delphi e me apaixonei pela praticidade de poder criar programas. Na época, vivia vendo tutoriais, mas na época era bem escasso o acesso ao conteúdo. Anos depois, quando nem imaginava, cá estou eu, desenvolvedor de software.
+Nascido no Rio de Janeiro, tenho 26 anos. Meu primeiro contato com programação foi junto com design, na adolescência, em fóruns de cheat. Atuei como ilustrador e tatuador e, por ironias do destino, vim novamente me apaixonar por programação. Desde então, busco aprimorar minhas habilidades diariamente para me tornar um desenvolvedor proficiente.
 
-<img src="https://imgur.com/hhNfzxM.png" width="300" /><img src="https://imgur.com/hJGexmx.png" width="100" /><img src="https://imgur.com/hhNfzxM.png" width="300" />
+<img src="https://imgur.com/hhNfzxM.png" width="450" /><img src="https://imgur.com/hJGexmx.png" width="100" /><img src="https://imgur.com/hhNfzxM.png" width="450" />
 
 
 <h3>👇 Tenho proeficiencia nas seguintes linguagens: 👇</h3>
@@ -13,35 +13,37 @@ Nascido no Rio de Janeiro, tenho 26 anos. Na minha adolescência, tive alguns co
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 <img src="https://imgur.com/hhNfzxM.png" width="500" />
-
-
 <h3>👇 Libs: 👇</h3>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
 
 <img src="https://imgur.com/hhNfzxM.png" width="500" />
 
 
 <h3>👇 Frameworks: 👇</h3>
 
-<img src="https://imgur.com/hhNfzxM.png" width="500" />
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
 
+<img src="https://imgur.com/hhNfzxM.png" width="500" />
 
 <h3>👇 Banco de dados: 👇</h3>
 
-<img src="https://imgur.com/hhNfzxM.png" width="500" />
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<h3>👇 Tools: 👇</h3>
+<img src="https://imgur.com/hhNfzxM.png" width="500" />
 
+<h3>👇 Ferramentas e etc.: 👇</h3>
+
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
+![Node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
+![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 <img src="https://imgur.com/hhNfzxM.png" width="500" />
 
->O que eu mais gosto na área tech é que eu me divirto escrevendo código e sempre penso: "Como posso impactar na vida de outra pessoa com oque tenho a oferecer" 
-
+<div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasKennari&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 <div  align="center">
