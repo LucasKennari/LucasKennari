@@ -47,5 +47,6 @@ Nascido no Rio de Janeiro, tenho 26 anos. Meu primeiro contato com programação
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasKennari&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 <div  align="center">
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" width="150" height="150" >
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZmNDJrdWFibDR5ZGxqeDNtcG1lamJ1d3R3dnQxeGwwZnVpcGFxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Mja7Pw5uXrRZsjQTVo/source.gif" width="100px"/>
 </div>
