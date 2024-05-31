@@ -11,6 +11,7 @@ Nascido no Rio de Janeiro, tenho 26 anos. Meu primeiro contato com programação
 
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![CSHARP](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 <img src="https://imgur.com/hhNfzxM.png" width="500" />
 <h3>👇 Libs: 👇</h3>
@@ -24,6 +25,7 @@ Nascido no Rio de Janeiro, tenho 26 anos. Meu primeiro contato com programação
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 <img src="https://imgur.com/hhNfzxM.png" width="500" />
 
@@ -40,6 +42,7 @@ Nascido no Rio de Janeiro, tenho 26 anos. Meu primeiro contato com programação
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![cloud](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 <img src="https://imgur.com/hhNfzxM.png" width="500" />
 
